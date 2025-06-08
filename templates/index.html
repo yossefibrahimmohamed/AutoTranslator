@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>OCR + Translate</title>
+</head>
+<body>
+  <h2>Upload Image with Text</h2>
+  <form method="post" enctype="multipart/form-data">
+    <input type="file" name="image" required>
+    <input type="submit" value="Upload & Translate">
+  </form>
+
+  {% if translated_text %}
+    <h3>Translation:</h3>
+    <p>{{ translated_text }}</p>
+  {% endif %}
+</body>
+</html>
