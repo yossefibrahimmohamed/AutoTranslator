@@ -7,25 +7,31 @@ Whether you're watching a foreign-language video, playing games, or attending an
 ---
 
 ## 📸 Demo
+## Logo App
 
-Logo App 
-
-<img src="https://github.com/user-attachments/assets/b8df65f1-6d81-4fa2-abe0-94559428f98f" alt="icon" width="100"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b8df65f1-6d81-4fa2-abe0-94559428f98f" alt="icon" width="100"/>
+</p>
 
 > 🔽 Add your screenshots or demo GIFs in the `screenshots/` folder and link them below:
 
-<img width="1280" alt="Screen 1" src="https://github.com/user-attachments/assets/c87b010d-994b-41de-8571-5e0e004e4540" />
-
-
-<img width="331" alt="Screen 2" src="https://github.com/user-attachments/assets/4ffafa96-b50a-4b25-9c75-2efdd5b65599" />
-
-
-<img width="1016" alt="Screen 3" src="https://github.com/user-attachments/assets/4e441235-c3c0-4b0d-8880-f8a118904995" />
-
-
-<img width="410" alt="Screen 4" src="https://github.com/user-attachments/assets/4378c49e-7a64-4ab1-95c7-546343ef0d3e" />
-
 ---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c87b010d-994b-41de-8571-5e0e004e4540" alt="Screen 1" width="600" style="margin: 10px;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4ffafa96-b50a-4b25-9c75-2efdd5b65599" alt="Screen 2" width="300" style="margin: 10px;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4e441235-c3c0-4b0d-8880-f8a118904995" alt="Screen 3" width="600" style="margin: 10px;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4378c49e-7a64-4ab1-95c7-546343ef0d3e" alt="Screen 4" width="300" style="margin: 10px;"/>
+</p>
 
 ## 🚀 Features
 
