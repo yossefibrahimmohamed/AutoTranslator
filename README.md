@@ -13,7 +13,7 @@ Whether you're watching a foreign-language video, playing games, or attending an
   <img src="https://github.com/user-attachments/assets/b8df65f1-6d81-4fa2-abe0-94559428f98f" alt="icon" width="100"/>
 </p>
 
-> 🔽 Add your screenshots or demo GIFs in the `screenshots/` folder and link them below:
+> 🔽 `screenshots/`
 
 ---
 
@@ -119,3 +119,6 @@ AutoTranslator/
 Video on YouTube Channel
 
 ``` https://paste here ..... ```
+
+Don't forget to support me 😊 
+
