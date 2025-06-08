@@ -108,9 +108,14 @@ customtkinter==5.2.1
 ```
 
 🖼️ Project Structure
-
+```
 AutoTranslator/
 │
 ├── main.py                  # Main launcher & GUI for translated text
 ├── requirements.txt         # Dependencies
 └── screenshots/             # Demo images and GIFs
+```
+
+Video on YouTube Channel
+
+``` https://paste here ..... ```
