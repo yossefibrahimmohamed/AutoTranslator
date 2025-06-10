@@ -118,7 +118,7 @@ AutoTranslator/
 
 Video on YouTube Channel
 
-``` https://paste here ..... ```
+``` https://youtu.be/RdWdBZHijTs?si=NQhEiTjjuR4M2DC5 ```
 
 Don't forget to support me 😊 
 
